@@ -1,14 +1,13 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api? type=waving&color=0:000000,100:434343&height=200&section=header&text=Nguyễn%20Thành%20Công&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Indie%20Game%20Developer%20|%20Vibe%20Coder&descSize=18&descAlignY=55"/>
+<div align="center">
+ <a class="link" href="https://github.com/codeflowjs/codeflowjs/blame/main/header.svg">
+  <img class="image" src="header.svg" alt="Click to see the source">
+ </a>
+</div>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com? font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=000000&center=true&vCenter=true&repeat=true&width=600&lines=Welcome+to+my+profile!;Building+games+with+Vietnamese+soul;Tworice+Studio+%F0%9F%8D%9A;Thạch+Sanh:+The+Origin+%E2%9A%94%EF%B8%8F" alt="Typing SVG" />
-</a>
-
-<br/><br/>
+**PRESENT**
 
 <!-- Logo -->
 <img src="https://res.cloudinary.com/dkqkxjmit/image/upload/v1764744655/logongang_ynrp1t.png" alt="Tworice Studio" width="350"/>
@@ -17,7 +16,7 @@
 
 <!-- Social Badges - FIXED URLs (không có khoảng trắng) -->
 <a href="https://facebook. com/thankscong"><img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-<a href="https://www.tiktok.com/@2ricestu"><img src="https://img. shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
+<a href="https://www.tiktok.com/@2ricestu"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
 <a href="https://www.youtube.com/@2ricestudio"><img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 <a href="https://tworicestu. web.app/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
 
@@ -25,7 +24,7 @@
 
 ---
 
-## <img src="https://media. giphy.com/media/hvRJCLFzcasrR4ia7z/giphy. gif" width="28"> About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
@@ -59,9 +58,7 @@ Sau một giai đoạn mất phương hướng với ngành IT, tôi tìm thấy
 
 <br/><br/>
 
-### ⚔️ Thạch Sanh: The Origin
-
-**2. 5D Pixel Art Action Game**
+### THẠCH SANH: THE ORIGIN
 
 *Lấy cảm hứng từ truyền thuyết Thạch Sanh — một trong những câu chuyện thần thoại nổi tiếng nhất của Việt Nam*
 
