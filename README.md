@@ -16,9 +16,9 @@
 <br/><br/>
 
 <!-- Social Badges - FIXED URLs (không có khoảng trắng) -->
-<a href="https://facebook. com/thankscong"><img src="https://img.shields. io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+<a href="https://facebook. com/thankscong"><img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 <a href="https://www.tiktok.com/@2ricestu"><img src="https://img. shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
-<a href="https://www.youtube.com/@2ricestudio"><img src="https://img.shields. io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+<a href="https://www.youtube.com/@2ricestudio"><img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 <a href="https://tworicestu. web.app/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
 
 </div>
