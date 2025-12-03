@@ -8,7 +8,6 @@
 </div>
 
 **PRESENT**
-
 <!-- Logo -->
 <img src="https://res.cloudinary.com/dkqkxjmit/image/upload/v1764744655/logongang_ynrp1t.png" alt="Tworice Studio" width="350"/>
 
@@ -57,14 +56,21 @@ Sau một giai đoạn mất phương hướng với ngành IT, tôi tìm thấy
 </a>
 
 <br/><br/>
+<div align="center">
 
-### THẠCH SANH: THE ORIGIN
+[![Made with Godot](https://img.shields.io/badge/Made%20with-Godot%204-478CBF?style=for-the-badge&logo=godot-engine)](https://godotengine.org/)
+[![Vietnamese](https://img.shields.io/badge/🇻🇳-Vietnamese%20Folklore-da251d?style=for-the-badge)](https://vi.wikipedia.org/wiki/Th%E1%BA%A1ch_Sanh)
+[![Pixel Art](https://img.shields.io/badge/🎨-2.5D%20Pixel%20Art-8B5CF6?style=for-the-badge)](https://www.aseprite.org/)
+
+**🐍 Diệt Trăn Tinh** • **🦅 Hạ Đại Bàng** • **🎸 Gảy Đàn Thần**
+
+</div>
 
 *Lấy cảm hứng từ truyền thuyết Thạch Sanh — một trong những câu chuyện thần thoại nổi tiếng nhất của Việt Nam*
 
 <br/>
 
-<a href="https://tworicestu. web.app/"><img src="https://img.shields.io/badge/🎮_Visit_Website-000000? style=for-the-badge" alt="Visit Website"/></a>
+<a href="https://tworicestu.web.app/"><img src="https://img.shields.io/badge/🎮_Visit_Website-000000?style=for-the-badge" alt="Visit Website"/></a>
 
 </div>
 
@@ -81,31 +87,15 @@ Sau một giai đoạn mất phương hướng với ngành IT, tôi tìm thấy
 
 | Category | Technologies |
 |:--------:|:-------------|
-| **Languages** | <img src="https://img.shields.io/badge/Python-333333?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields. io/badge/C++-333333?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/GDScript-333333?style=flat-square&logo=godotengine&logoColor=white"/> |
-| **Game Dev** | <img src="https://img. shields.io/badge/Godot-333333?style=flat-square&logo=godotengine&logoColor=white"/> <img src="https://img.shields.io/badge/Aseprite-333333?style=flat-square&logo=aseprite&logoColor=white"/> |
-| **Data & Backend** | <img src="https://img. shields.io/badge/NumPy-333333?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-333333? style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields. io/badge/Firebase-333333?style=flat-square&logo=firebase&logoColor=white"/> |
+| **Languages** | <img src="https://img.shields.io/badge/Python-333333?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-333333?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/GDScript-333333?style=flat-square&logo=godotengine&logoColor=white"/> |
+| **Game Dev** | <img src="https://img.shields.io/badge/Godot-333333?style=flat-square&logo=godotengine&logoColor=white"/> <img src="https://img.shields.io/badge/Aseprite-333333?style=flat-square&logo=aseprite&logoColor=white"/> |
+| **Data & Backend** | <img src="https://img.shields.io/badge/NumPy-333333?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-333333?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-333333?style=flat-square&logo=firebase&logoColor=white"/> |
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=NgaiCong&show_icons=true&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=000000&border_color=e0e0e0&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/? user=NgaiCong&background=ffffff&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=333333&currStreakNum=000000&dates=888888&sideNums=333333&border=e0e0e0" alt="GitHub Streak" height="165"/>
-
-<br/><br/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/api/graph?username=NgaiCong&bg_color=ffffff&color=000000&line=000000&point=333333&area=true&area_color=cccccc&hide_border=false" width="95%"/>
-
-</div>
-
----
-
-## <img src="https://media.giphy. com/media/VgCDAzcKvsR6OM0uWg/giphy. gif" width="35"> Beyond Code
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"> Beyond Code
 
 <div align="center">
 
@@ -122,20 +112,9 @@ Sau một giai đoạn mất phương hướng với ngành IT, tôi tìm thấy
 <div align="center">
 
 <a href="https://facebook.com/thankscong">
-  <img src="https://img. shields.io/badge/Let's_Connect! -000000?style=for-the-badge&logo=handshake&logoColor=white" alt="Connect"/>
+  <img src="https://img.shields.io/badge/Let's_Connect!-000000?style=for-the-badge&logo=handshake&logoColor=white" alt="Connect"/>
 </a>
 
 </div>
 
----
 
-<div align="center">
-
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api? type=waving&color=0:434343,100:000000&height=120&section=footer"/>
-
-<img src="https://komarev.com/ghpvc/?username=NgaiCong&color=000000&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-
-**Thanks for visiting! **
-
-</div>
