@@ -15,7 +15,6 @@
 class Developer:
     def __init__(self):
         self.name = "Nguyễn Thành Công"
-        self.role = "Mobile & Web Developer"
         self.education = "IT Student @ Saigon"
         self.studio = "Tworice Studio"
         
