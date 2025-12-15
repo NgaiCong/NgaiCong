@@ -64,7 +64,7 @@ Dự án cộng đồng phi lợi nhuận cung cấp **Roadmap** học tập và
 <br/><br/>
 
 [![Made with Godot](https://img.shields.io/badge/Made%20with-Godot%204-478CBF?style=for-the-badge&logo=godot-engine)](https://godotengine.org/)
-[![Vietnamese](https://img.shields.io/badge/🇻🇳-Vietnamese%20Folklore-da251d?style=for-the-badge)](https://vi.wikipedia.org/wiki/Th%E1%BA%A1ch_Sanh_(truy%E1%BB%87n_th%C6%A1)
+[![Vietnamese](https://img.shields.io/badge/🇻🇳-Vietnamese%20Folklore-da251d?style=for-the-badge)](https://vi.wikipedia.org/wiki/Th%E1%BA%A1ch_Sanh_(truy%E1%BB%87n_th%C6%A1))
 [![Pixel Art](https://img.shields.io/badge/🎨-2.5D%20Pixel%20Art-8B5CF6?style=for-the-badge)](https://www.aseprite.org/)
 
 **🐍 Diệt Trăn Tinh** • **🦅 Hạ Đại Bàng** • **🎸 Gảy Đàn Thần**
