@@ -22,10 +22,6 @@ class Developer:
         return ["Game Dev", "Community Projects"]
 ```
 
-Sinh viên năm 2 ngành Công nghệ Thông tin tại Sài Gòn. Hiện đang tập trung vào Python, C++ và phát triển game. 
-
-Sau một giai đoạn mất phương hướng với ngành IT, tôi tìm thấy động lực mới: **học lập trình thông qua việc tạo ra sản phẩm thực tế**. Đó là lý do Tworice Studio ra đời — nơi tôi kết hợp đam mê công nghệ với văn hóa Việt Nam.
-
 <br clear="right"/>
 
 ---
